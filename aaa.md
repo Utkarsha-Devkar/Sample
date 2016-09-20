@@ -1,1 +1,0 @@
-1) http://www.slideshare.net/p2cinfotech/basic-java-interview-questions-and-answers
